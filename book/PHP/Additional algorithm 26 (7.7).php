@@ -13,8 +13,7 @@
     $t = "";
     
     for ($i = 0; $i < count($A); $i++) {
-       for ($j = 0; $j < count($A[$i]); $j++) 
-	   {
+       for ($j = 0; $j < count($A[$i]); $j++) {
 			$t .= "\n A[".$i."][".$j."]=".$A[$i][$j];
        }
     }
