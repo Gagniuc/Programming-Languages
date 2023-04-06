@@ -5,4 +5,5 @@
 
     echo "Code 65 is the:'" . chr(65) . "' letter";
     echo "Letter A has the code:'" . ord('A') . "'";
+
 ?>
