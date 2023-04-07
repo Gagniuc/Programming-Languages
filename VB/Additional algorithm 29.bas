@@ -11,4 +11,3 @@ End Sub
 Function compute(x) As Integer
     compute = x + x / x - x * x
 End Function
-
