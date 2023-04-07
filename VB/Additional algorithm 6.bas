@@ -3,4 +3,3 @@ Attribute VB_Name = "Module1"
 'Additional algorithm 6. Examples of multiline comments are presented in the case of Python, which show the connection between the one-dimensional patterns from the previous table and the two-dimensional representation from the source code. Note that the source code is in context and works with copy/paste.
 
 'the example is only for python
-
