@@ -23,4 +23,3 @@ End Function
 Function compute(x)
     compute = x + x / x - x * x
 End Function
-
