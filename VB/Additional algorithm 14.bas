@@ -13,4 +13,3 @@ Sub main()
     MsgBox A(0) & A(1) & A(2)
 
 End Sub
-
