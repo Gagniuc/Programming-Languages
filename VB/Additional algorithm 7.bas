@@ -6,3 +6,4 @@ Attribute VB_Name = "Module1"
 '3.14159265358979323846264
 ''a'
 '"this text"
+
