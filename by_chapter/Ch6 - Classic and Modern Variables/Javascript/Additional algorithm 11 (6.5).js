@@ -1,0 +1,6 @@
+//Paul A. Gagniuc. An Introduction to Programming Languages: Simultaneous Learning in Multiple Coding Environments. Synthesis Lectures on Computer Science. Springer International Publishing, 2023, pp. 1-280.
+//Additional algorithm 6.5. It shows how constants are declared in different computer languages. Moreover, it shows the difference between constant declaration (second column) and variable declaration (third column). Some computer languages use special keywords and data type declarations, while other computer languages do not. Notice how in certain computer languages where there are no special keywords for defining constants, the difference between constant and variable is made by convention; namely a variable written with an uppercase letter means a constant and a variable written with a lowercase letter means a simple variable whose content can be changed at will. Note that the source code is out of context and is intended for explanation of the method.
+//These JavaScript examples are written for the Rhino JavaScript engine. To use this particular Javascript example in browsers, please put the source between the <script></script> tags, and replace any "print" keyword with the "alert" keyword.
+
+const X = 3.1415926535897932;	
+var x = 3.141592653589793238;
