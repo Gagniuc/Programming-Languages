@@ -12,4 +12,3 @@ End Sub
 Function c(x) As Double
     c = x + x / x - x * x
 End Function
-
