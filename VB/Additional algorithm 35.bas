@@ -26,3 +26,4 @@ Function inpure(x) As Integer
     a = 11
     inpure = x + x / x - x * x
 End Function
+
