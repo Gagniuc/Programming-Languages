@@ -25,4 +25,3 @@ Sub main()
     Debug.Print (x + x / x - x * x)
 
 End Sub
-
