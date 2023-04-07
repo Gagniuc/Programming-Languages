@@ -11,5 +11,3 @@ Sub main()
     Debug.Print "A(2)=" & A(2)
 
 End Sub
-
-    
