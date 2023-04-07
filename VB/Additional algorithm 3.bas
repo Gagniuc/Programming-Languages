@@ -8,4 +8,3 @@ Sub main()
     MsgBox "Letter A has the code:'" & Asc("A") & "'"
 
 End Sub
-
