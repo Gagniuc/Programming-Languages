@@ -14,4 +14,3 @@ Sub main()
     Debug.Print (b)
     
 End Sub
-
