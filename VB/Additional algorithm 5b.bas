@@ -9,4 +9,3 @@ Sub main()
     a = "this is ": b = a & "Visual Basic 6.0" & vbCrLf & "output": Debug.Print b
 
 End Sub
-
