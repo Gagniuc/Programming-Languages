@@ -21,4 +21,3 @@ Function compute(ByRef t, ByRef a) As String
     compute = t
     
 End Function
-
