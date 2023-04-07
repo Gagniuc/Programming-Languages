@@ -15,4 +15,3 @@ Sub main()
     Debug.Print A(0) & A(1) & A(2)
 
 End Sub
-
