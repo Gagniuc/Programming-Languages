@@ -11,4 +11,3 @@ Sub main()
     Debug.Print B(0) + B(1) + B(2)
     
 End Sub
-
